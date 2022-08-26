@@ -87,7 +87,7 @@
 
 ## 💻 실행 화면
 
-| 가위바위보 오류처리<br>draw & win| 가위바위보 lose<br>묵찌빠 오류처리 & 종료 | 가위바위보 win<br>묵찌빠 lose & draw(종료)
+| 가위바위보 오류처리<br>draw & win| 가위바위보 lose<br>묵찌빠 오류처리 & 종료 | 가위바위보 win<br>묵찌빠 lose & draw(종료)
 |:--:|:--:|:--:|
 |<img src="https://i.imgur.com/zp4Icb8.gif" width="300">|<img src="https://i.imgur.com/Hk3668o.gif" width="300">|<img src="https://i.imgur.com/Rlo7MJ3.gif" width="300">|
 
